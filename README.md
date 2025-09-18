@@ -30,3 +30,5 @@ NVMe diskler XP’de hiç desteklenmez (sadece özel mod sürücüler ile).
 USB 2.0 desteklenir.
 
 USB 3.0 için resmi XP sürücüsü yok → sadece bazı 3. parti mod sürücüler.
+
+amd yenilnesil işlemcileri çalışma ihtimali var 
