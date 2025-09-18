@@ -5,7 +5,9 @@ AMD 8xx serisi (870, 880, 890)
 
 AMD 9xx serisi (970, 990FX)
 
+AMD Athlon XP, Athlon 64, Athlon X2
 
+AMD Phenom / Phenom II
 
 3. Ekran Kartları
 
