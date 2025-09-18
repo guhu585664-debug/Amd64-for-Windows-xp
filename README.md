@@ -1,4 +1,4 @@
-# Amd64-for-Windows-xp
+# Amd64-for-Windows-xp acpi
 AMD 7xx serisi (770, 780, 790)
 
 AMD 8xx serisi (870, 880, 890)
